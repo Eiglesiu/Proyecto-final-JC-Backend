@@ -1,0 +1,28 @@
+:root{
+    --Background-Color: #d1c9c9;
+    --Header-Color: rgb(94, 177, 197);
+    --Primary-Color: #313638;
+    --Secondary-Color: #000000;
+    --Terciary-Color: #063ca0;
+    --Quaternary-Color: #2f3b5c;
+    --Quinary-Color: #001a55;
+    --Links-Color: #d1c9c9;
+    --linkHover-Color: #ffffff;
+    --Text-Header-Color: #ffffff;
+
+    --Font-Type: "DM Sans", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: var(--Font-Type);
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
