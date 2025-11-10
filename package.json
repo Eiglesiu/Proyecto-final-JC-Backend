@@ -2,16 +2,15 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "servidor.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node servidor.js",
-    "dev": "node servidor.js"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^5.1.0",
     "mongoose": "^8.19.2"
   }
